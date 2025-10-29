@@ -1,2 +1,2 @@
 "# practice" 
-editting the README
+editing the README
